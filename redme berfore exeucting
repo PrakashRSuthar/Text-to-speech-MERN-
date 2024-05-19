@@ -1,0 +1,6 @@
+files are divided into two parts client and server 
+
+go to client directory to run front end react stuff 
+
+open one more terminal go to server directory by hitting cd server and hit npm start to start backend server 
+i am not sure about the database workingness as its my local mongodb link and i am new to it 
